@@ -1,0 +1,73 @@
+
+body{
+    /* background-color: black; */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.section-center{
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 30px;
+
+}
+
+.giveaway{
+    font-size: 20px;
+}
+
+article img{
+    /* background-color: brown; */
+}
+
+.gift-info{
+    background-color: #8fa3b8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+
+.deadline{
+    /* background-color: brown; */
+    padding: 5px 50px;
+    display: flex;
+}
+
+.deadline-format{
+    display: flex;
+    margin: 0px 20px;
+}
+
+.date-wrap{
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
